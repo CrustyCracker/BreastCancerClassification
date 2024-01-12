@@ -1,4 +1,4 @@
-# Brest Classification
+# Brest Cancer Classification
 
 ## Authors
 
@@ -6,7 +6,8 @@ Mateusz Krakowski
 
 Bartosz Latosek
 
-## Project structure
+## Dokumentacja
 
-- /docs documentation
-- /project project
+Pełna dokumentacja i analiza wyników znajduje się w pliku docs/Klasyfikacja-Raka-Piersi.pdf
+
+Programy stworzone na rzecz tego projektu znajdują się w katalogu project
