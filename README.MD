@@ -1,4 +1,4 @@
-# Brest Cancer Classification
+# Breast Cancer Classification
 
 ## Authors
 
